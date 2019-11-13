@@ -9,5 +9,6 @@ Por ahora esta librería esta enfocada al uso de escaners.
 En lo posterior la iremos ampliando para usar todas las capacidades que brindan los dispositivos 
 atraves de los controladores Twain. 
 
-Fernando Mora
+Fernando Mora.
+
 Machala, Ecuador.
