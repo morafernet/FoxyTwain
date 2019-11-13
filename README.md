@@ -10,5 +10,4 @@ En lo posterior la iremos ampliando para usar todas las capacidades que brindan 
 atraves de los controladores Twain. 
 
 Fernando Mora.
-
 Machala, Ecuador.
